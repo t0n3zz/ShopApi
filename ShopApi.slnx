@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WebApplication1/ShopApi.csproj" />
+  <Project Path="WpfApp2/Marketplace.App.csproj" Id="64c658ce-7a8f-4cb6-ba10-201efd55aedf" />
+</Solution>
